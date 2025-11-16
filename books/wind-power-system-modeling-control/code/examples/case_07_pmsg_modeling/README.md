@@ -1,5 +1,29 @@
 # 案例7: PMSG建模
 
+## 系统示意图（AI自动生成）
+
+<table>
+<tr>
+<td width="58%">
+<img src="case_07_pmsg_modeling_ai_diagram.png" alt="案例7: PMSG建模系统示意图" width="100%"/>
+</td>
+<td width="42%">
+
+**AI大模型总结要点**
+
+- 简介：本案例研究永磁同步发电机(Permanent Magnet Synchronous Generator, PMSG)的建模与控制策略。PMSG是直驱式风力发电机的核心部件，具有无齿轮箱、效率高、可靠性好的优点，是…
+- 理论背景：PMSG采用dq坐标系建模，d轴与转子磁场对齐，q轴超前d轴90°。电压方程为：Vd = -Rs×Id - ωe×Lq×Iq, Vq = -Rs×Iq + ωe×Ld×Id + ωe×ψf，其中ψf为永磁磁链…
+- 代码说明：主要类
+- 参数说明：PMSG电气参数
+
+> 该图由AI图像生成引擎根据案例描述自动创建，呈现输入条件、物理模型、控制策略与关键指标之间的关系，可作为阅读正文前的快速导览。
+
+</td>
+</tr>
+</table>
+
+
+
 ## 简介
 
 本案例研究永磁同步发电机(Permanent Magnet Synchronous Generator, PMSG)的建模与控制策略。PMSG是直驱式风力发电机的核心部件，具有无齿轮箱、效率高、可靠性好的优点，是大型海上风电的主流技术路线。本案例演示PMSG的dq坐标系数学模型、Id=0控制策略、电磁转矩计算以及恒转矩区和恒功率区的运行特性。掌握PMSG的建模与控制对于直驱式风力发电系统的设计和优化具有重要价值。

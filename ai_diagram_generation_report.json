@@ -1,0 +1,1790 @@
+{
+  "timestamp": "2025-11-16T08:11:10.533624+00:00",
+  "books_root": "/workspace/books",
+  "total_cases": 257,
+  "generated": 233,
+  "skipped": 24,
+  "failed": 0,
+  "details": {
+    "generated": [
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_05_dmd",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_05_dmd/README.md",
+        "diagram": "case_05_dmd_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_06_galerkin_reduction",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_06_galerkin_reduction/README.md",
+        "diagram": "case_06_galerkin_reduction_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_07_neural_network_rom",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_07_neural_network_rom/README.md",
+        "diagram": "case_07_neural_network_rom_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_08_n4sid_identification",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_08_n4sid_identification/README.md",
+        "diagram": "case_08_n4sid_identification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_09_frequency_identification",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_09_frequency_identification/README.md",
+        "diagram": "case_09_frequency_identification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_10_nonlinear_identification",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_10_nonlinear_identification/README.md",
+        "diagram": "case_10_nonlinear_identification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_11_sindy_identification",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_11_sindy_identification/README.md",
+        "diagram": "case_11_sindy_identification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_12_ekf_state_estimation",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_12_ekf_state_estimation/README.md",
+        "diagram": "case_12_ekf_state_estimation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_13_digital_twin",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_13_digital_twin/README.md",
+        "diagram": "case_13_digital_twin_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_14_mpc_control",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_14_mpc_control/README.md",
+        "diagram": "case_14_mpc_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_15_adaptive_control",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_15_adaptive_control/README.md",
+        "diagram": "case_15_adaptive_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_16_robust_control",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_16_robust_control/README.md",
+        "diagram": "case_16_robust_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_17_intelligent_control",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_17_intelligent_control/README.md",
+        "diagram": "case_17_intelligent_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_18_pressurized_pipeline",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_18_pressurized_pipeline/README.md",
+        "diagram": "case_18_pressurized_pipeline_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_19_coupled_system",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_19_coupled_system/README.md",
+        "diagram": "case_19_coupled_system_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_20_integrated_system",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_20_integrated_system/README.md",
+        "diagram": "case_20_integrated_system_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_01_dem_analysis",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_01_dem_analysis/README.md",
+        "diagram": "case_01_dem_analysis_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_02_thiessen",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_02_thiessen/README.md",
+        "diagram": "case_02_thiessen_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_03_idw_kriging",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_03_idw_kriging/README.md",
+        "diagram": "case_03_idw_kriging_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_04_xaj_model",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_04_xaj_model/README.md",
+        "diagram": "case_04_xaj_model_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_05_green_ampt",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_05_green_ampt/README.md",
+        "diagram": "case_05_green_ampt_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_06_distributed_runoff",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_06_distributed_runoff/README.md",
+        "diagram": "case_06_distributed_runoff_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_07_slope_routing",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_07_slope_routing/README.md",
+        "diagram": "case_07_slope_routing_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_08_unit_hydrograph",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_08_unit_hydrograph/README.md",
+        "diagram": "case_08_unit_hydrograph_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_09_sensitivity_analysis",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_09_sensitivity_analysis/README.md",
+        "diagram": "case_09_sensitivity_analysis_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_10_muskingum_cunge",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_10_muskingum_cunge/README.md",
+        "diagram": "case_10_muskingum_cunge_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_11_sce_calibration",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_11_sce_calibration/README.md",
+        "diagram": "case_11_sce_calibration_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_12_glue_uncertainty",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_12_glue_uncertainty/README.md",
+        "diagram": "case_12_glue_uncertainty_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_14_integrated_watershed",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_14_integrated_watershed/README.md",
+        "diagram": "case_14_integrated_watershed_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_15_hydro_dynamic_coupling",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_15_hydro_dynamic_coupling/README.md",
+        "diagram": "case_15_hydro_dynamic_coupling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_16_human_impact",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_16_human_impact/README.md",
+        "diagram": "case_16_human_impact_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_17_reservoir_operation",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_17_reservoir_operation/README.md",
+        "diagram": "case_17_reservoir_operation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_18_forecast_operation",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_18_forecast_operation/README.md",
+        "diagram": "case_18_forecast_operation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_19_climate_change",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_19_climate_change/README.md",
+        "diagram": "case_19_climate_change_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_20_cascade_reservoirs",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_20_cascade_reservoirs/README.md",
+        "diagram": "case_20_cascade_reservoirs_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_21_realtime_correction",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_21_realtime_correction/README.md",
+        "diagram": "case_21_realtime_correction_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_22_gis_integration",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_22_gis_integration/README.md",
+        "diagram": "case_22_gis_integration_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_23_full_coupling",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_23_full_coupling/README.md",
+        "diagram": "case_23_full_coupling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_24_digital_twin",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_24_digital_twin/README.md",
+        "diagram": "case_24_digital_twin_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "distributed-hydrological-model",
+        "case_dir": "/workspace/books/distributed-hydrological-model/code/examples/case_25_intelligent_forecast",
+        "readme": "/workspace/books/distributed-hydrological-model/code/examples/case_25_intelligent_forecast/README.md",
+        "diagram": "case_25_intelligent_forecast_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_01_ecological_flow",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_01_ecological_flow/README.md",
+        "diagram": "case_01_ecological_flow_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_02_habitat_suitability",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_02_habitat_suitability/README.md",
+        "diagram": "case_02_habitat_suitability_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_03_hydrologic_indicators",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_03_hydrologic_indicators/README.md",
+        "diagram": "case_03_hydrologic_indicators_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_04_vegetation_hydraulics",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_04_vegetation_hydraulics/README.md",
+        "diagram": "case_04_vegetation_hydraulics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_05_thermal_stratification",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_05_thermal_stratification/README.md",
+        "diagram": "case_05_thermal_stratification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_06_benthic_habitat",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_06_benthic_habitat/README.md",
+        "diagram": "case_06_benthic_habitat_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_07_fish_swimming",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_07_fish_swimming/README.md",
+        "diagram": "case_07_fish_swimming_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_08_fishway",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_08_fishway/README.md",
+        "diagram": "case_08_fishway_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_09_denil_fishway",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_09_denil_fishway/README.md",
+        "diagram": "case_09_denil_fishway_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_10_spawning_ground",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_10_spawning_ground/README.md",
+        "diagram": "case_10_spawning_ground_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_11_feeding_ground",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_11_feeding_ground/README.md",
+        "diagram": "case_11_feeding_ground_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_12_population",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_12_population/README.md",
+        "diagram": "case_12_population_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_13_river_morphology",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_13_river_morphology/README.md",
+        "diagram": "case_13_river_morphology_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_14_ecological_revetment",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_14_ecological_revetment/README.md",
+        "diagram": "case_14_ecological_revetment_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_15_floodplain_wetland",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_15_floodplain_wetland/README.md",
+        "diagram": "case_15_floodplain_wetland_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_16_gravel_supplement",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_16_gravel_supplement/README.md",
+        "diagram": "case_16_gravel_supplement_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_17_estuary",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_17_estuary/README.md",
+        "diagram": "case_17_estuary_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_18_restoration_assessment",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_18_restoration_assessment/README.md",
+        "diagram": "case_18_restoration_assessment_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_21_hydropower",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_21_hydropower/README.md",
+        "diagram": "case_21_hydropower_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_29_lake_hydrodynamics",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_29_lake_hydrodynamics/README.md",
+        "diagram": "case_29_lake_hydrodynamics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_30_constructed_wetland",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_30_constructed_wetland/README.md",
+        "diagram": "case_30_constructed_wetland_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_31_riparian_buffer",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_31_riparian_buffer/README.md",
+        "diagram": "case_31_riparian_buffer_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_32_lake_stratification",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_32_lake_stratification/README.md",
+        "diagram": "case_32_lake_stratification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_33_wetland_restoration",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_33_wetland_restoration/README.md",
+        "diagram": "case_33_wetland_restoration_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_34_sponge_city",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_34_sponge_city/README.md",
+        "diagram": "case_34_sponge_city_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_35_urban_river",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_35_urban_river/README.md",
+        "diagram": "case_35_urban_river_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_36_rain_garden",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_36_rain_garden/README.md",
+        "diagram": "case_36_rain_garden_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_37_flood_control",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_37_flood_control/README.md",
+        "diagram": "case_37_flood_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_38_salt_wedge",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_38_salt_wedge/README.md",
+        "diagram": "case_38_salt_wedge_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_39_mangrove",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_39_mangrove/README.md",
+        "diagram": "case_39_mangrove_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_40_revetment",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_40_revetment/README.md",
+        "diagram": "case_40_revetment_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "ecohydraulics",
+        "case_dir": "/workspace/books/ecohydraulics/code/examples/case_41_wetland_carbon",
+        "readme": "/workspace/books/ecohydraulics/code/examples/case_41_wetland_carbon/README.md",
+        "diagram": "case_41_wetland_carbon_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_01",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_01/README.md",
+        "diagram": "case_01_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_01_irrigation_gate",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_01_irrigation_gate/README.md",
+        "diagram": "case_01_irrigation_gate_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_02_pump_station",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_02_pump_station/README.md",
+        "diagram": "case_02_pump_station_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_03_hydropower_station",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_03_hydropower_station/README.md",
+        "diagram": "case_03_hydropower_station_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_04_valve_station",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_04_valve_station/README.md",
+        "diagram": "case_04_valve_station_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_05_drainage_gate",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_05_drainage_gate/README.md",
+        "diagram": "case_05_drainage_gate_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_06_multi_function_gate",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_06_multi_function_gate/README.md",
+        "diagram": "case_06_multi_function_gate_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_07_cascade_canals",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_07_cascade_canals/README.md",
+        "diagram": "case_07_cascade_canals_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_08_multi_pump_stations",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_08_multi_pump_stations/README.md",
+        "diagram": "case_08_multi_pump_stations_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_09_water_network_pressure",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_09_water_network_pressure/README.md",
+        "diagram": "case_09_water_network_pressure_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_10_irrigation_system",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_10_irrigation_system/README.md",
+        "diagram": "case_10_irrigation_system_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_11_urban_river_network",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_11_urban_river_network/README.md",
+        "diagram": "case_11_urban_river_network_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_12_water_diversion",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_12_water_diversion/README.md",
+        "diagram": "case_12_water_diversion_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_13_multi_source_water_supply",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_13_multi_source_water_supply/README.md",
+        "diagram": "case_13_multi_source_water_supply_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_14_regional_irrigation",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_14_regional_irrigation/README.md",
+        "diagram": "case_14_regional_irrigation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_15_flood_control",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_15_flood_control/README.md",
+        "diagram": "case_15_flood_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_16_water_resource_allocation",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_16_water_resource_allocation/README.md",
+        "diagram": "case_16_water_resource_allocation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_17_smart_water",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_17_smart_water/README.md",
+        "diagram": "case_17_smart_water_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_18_digital_twin",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_18_digital_twin/README.md",
+        "diagram": "case_18_digital_twin_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_19_basin_coordination",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_19_basin_coordination/README.md",
+        "diagram": "case_19_basin_coordination_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_20_smart_city_water",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_20_smart_city_water/README.md",
+        "diagram": "case_20_smart_city_water_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_21_inter_basin",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_21_inter_basin/README.md",
+        "diagram": "case_21_inter_basin_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_22_big_data_platform",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_22_big_data_platform/README.md",
+        "diagram": "case_22_big_data_platform_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_23_ai_water_management",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_23_ai_water_management/README.md",
+        "diagram": "case_23_ai_water_management_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/case_24_comprehensive",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/case_24_comprehensive/README.md",
+        "diagram": "case_24_comprehensive_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "intelligent-water-network-design",
+        "case_dir": "/workspace/books/intelligent-water-network-design/code/examples/comparison_static_vs_dynamic",
+        "readme": "/workspace/books/intelligent-water-network-design/code/examples/comparison_static_vs_dynamic/README.md",
+        "diagram": "comparison_static_vs_dynamic_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_01_irrigation",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_01_irrigation/README.md",
+        "diagram": "case_01_irrigation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_02_drainage",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_02_drainage/README.md",
+        "diagram": "case_02_drainage_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_03_landscape",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_03_landscape/README.md",
+        "diagram": "case_03_landscape_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_04_weir",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_04_weir/README.md",
+        "diagram": "case_04_weir_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_05_gate",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_05_gate/README.md",
+        "diagram": "case_05_gate_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_06_drop",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_06_drop/README.md",
+        "diagram": "case_06_drop_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_07_profile",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_07_profile/README.md",
+        "diagram": "case_07_profile_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_08_bridge",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_08_bridge/README.md",
+        "diagram": "case_08_bridge_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_09_roughness",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_09_roughness/README.md",
+        "diagram": "case_09_roughness_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_10_compound",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_10_compound/README.md",
+        "diagram": "case_10_compound_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_11_transition",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_11_transition/README.md",
+        "diagram": "case_11_transition_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_12_culvert",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_12_culvert/README.md",
+        "diagram": "case_12_culvert_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_13_unsteady",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_13_unsteady/README.md",
+        "diagram": "case_13_unsteady_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_14_flood_routing",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_14_flood_routing/README.md",
+        "diagram": "case_14_flood_routing_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_15_dam_break",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_15_dam_break/README.md",
+        "diagram": "case_15_dam_break_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_16_canal_operation",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_16_canal_operation/README.md",
+        "diagram": "case_16_canal_operation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_17_tidal_river",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_17_tidal_river/README.md",
+        "diagram": "case_17_tidal_river_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_18_wave_reflection",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_18_wave_reflection/README.md",
+        "diagram": "case_18_wave_reflection_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_19_dynamic_scheduling",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_19_dynamic_scheduling/README.md",
+        "diagram": "case_19_dynamic_scheduling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_20_2d_flow",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_20_2d_flow/README.md",
+        "diagram": "case_20_2d_flow_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_21_pipe_flow",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_21_pipe_flow/README.md",
+        "diagram": "case_21_pipe_flow_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_22_pipe_network",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_22_pipe_network/README.md",
+        "diagram": "case_22_pipe_network_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_23_long_distance",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_23_long_distance/README.md",
+        "diagram": "case_23_long_distance_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_24_siphon",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_24_siphon/README.md",
+        "diagram": "case_24_siphon_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_25_water_hammer",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_25_water_hammer/README.md",
+        "diagram": "case_25_water_hammer_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_26_moc",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_26_moc/README.md",
+        "diagram": "case_26_moc_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_27_pump_transients",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_27_pump_transients/README.md",
+        "diagram": "case_27_pump_transients_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_28_surge_tank",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_28_surge_tank/README.md",
+        "diagram": "case_28_surge_tank_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_29_channel_pipe",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_29_channel_pipe/README.md",
+        "diagram": "case_29_channel_pipe_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "open-channel-hydraulics",
+        "case_dir": "/workspace/books/open-channel-hydraulics/code/examples/case_30_comprehensive",
+        "readme": "/workspace/books/open-channel-hydraulics/code/examples/case_30_comprehensive/README.md",
+        "diagram": "case_30_comprehensive_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_01_pv_cell_iv_characteristics",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_01_pv_cell_iv_characteristics/README.md",
+        "diagram": "case_01_pv_cell_iv_characteristics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_02_double_diode_model",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_02_double_diode_model/README.md",
+        "diagram": "case_02_double_diode_model_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_03_pv_module_modeling",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_03_pv_module_modeling/README.md",
+        "diagram": "case_03_pv_module_modeling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_04_pv_array_configuration",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_04_pv_array_configuration/README.md",
+        "diagram": "case_04_pv_array_configuration_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_05_shading_analysis",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_05_shading_analysis/README.md",
+        "diagram": "case_05_shading_analysis_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_06_parameter_identification",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_06_parameter_identification/README.md",
+        "diagram": "case_06_parameter_identification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_07_perturb_observe",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_07_perturb_observe/README.md",
+        "diagram": "case_07_perturb_observe_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_08_incremental_conductance",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_08_incremental_conductance/README.md",
+        "diagram": "case_08_incremental_conductance_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_09_constant_voltage",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_09_constant_voltage/README.md",
+        "diagram": "case_09_constant_voltage_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_10_fuzzy_logic",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_10_fuzzy_logic/README.md",
+        "diagram": "case_10_fuzzy_logic_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_11_pso_mppt",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_11_pso_mppt/README.md",
+        "diagram": "case_11_pso_mppt_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_12_multi_peak_mppt",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_12_multi_peak_mppt/README.md",
+        "diagram": "case_12_multi_peak_mppt_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_13_pwm_modulation",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_13_pwm_modulation/README.md",
+        "diagram": "case_13_pwm_modulation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_14_current_control",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_14_current_control/README.md",
+        "diagram": "case_14_current_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_15_voltage_control",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_15_voltage_control/README.md",
+        "diagram": "case_15_voltage_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_16_grid_synchronization",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_16_grid_synchronization/README.md",
+        "diagram": "case_16_grid_synchronization_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_17_power_factor_control",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_17_power_factor_control/README.md",
+        "diagram": "case_17_power_factor_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_18_harmonic_suppression",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_18_harmonic_suppression/README.md",
+        "diagram": "case_18_harmonic_suppression_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_19_dcdc_converter",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_19_dcdc_converter/README.md",
+        "diagram": "case_19_dcdc_converter_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "photovoltaic-system-modeling-control",
+        "case_dir": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_20_dc_bus_control",
+        "readme": "/workspace/books/photovoltaic-system-modeling-control/code/examples/case_20_dc_bus_control/README.md",
+        "diagram": "case_20_dc_bus_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_01",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_01/README.md",
+        "diagram": "case_01_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_02",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_02/README.md",
+        "diagram": "case_02_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_03",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_03/README.md",
+        "diagram": "case_03_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_04",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_04/README.md",
+        "diagram": "case_04_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_05",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_05/README.md",
+        "diagram": "case_05_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_06",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_06/README.md",
+        "diagram": "case_06_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_07",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_07/README.md",
+        "diagram": "case_07_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_08",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_08/README.md",
+        "diagram": "case_08_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_09",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_09/README.md",
+        "diagram": "case_09_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_10",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_10/README.md",
+        "diagram": "case_10_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_11",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_11/README.md",
+        "diagram": "case_11_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_12",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_12/README.md",
+        "diagram": "case_12_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_13",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_13/README.md",
+        "diagram": "case_13_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_14",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_14/README.md",
+        "diagram": "case_14_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_15",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_15/README.md",
+        "diagram": "case_15_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_16",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_16/README.md",
+        "diagram": "case_16_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_17",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_17/README.md",
+        "diagram": "case_17_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_18",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_18/README.md",
+        "diagram": "case_18_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_19",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_19/README.md",
+        "diagram": "case_19_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "underground-water-dynamics",
+        "case_dir": "/workspace/books/underground-water-dynamics/code/examples/case_20",
+        "readme": "/workspace/books/underground-water-dynamics/code/examples/case_20/README.md",
+        "diagram": "case_20_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_01_diffusion",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_01_diffusion/README.md",
+        "diagram": "case_01_diffusion_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_02_advection_diffusion",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_02_advection_diffusion/README.md",
+        "diagram": "case_02_advection_diffusion_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_03_reaction",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_03_reaction/README.md",
+        "diagram": "case_03_reaction_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_04_streeter_phelps",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_04_streeter_phelps/README.md",
+        "diagram": "case_04_streeter_phelps_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_05_nutrients",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_05_nutrients/README.md",
+        "diagram": "case_05_nutrients_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_06_self_purification",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_06_self_purification/README.md",
+        "diagram": "case_06_self_purification_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_07_multi_source",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_07_multi_source/README.md",
+        "diagram": "case_07_multi_source_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_08_nonpoint_source",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_08_nonpoint_source/README.md",
+        "diagram": "case_08_nonpoint_source_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_09_thermal_pollution",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_09_thermal_pollution/README.md",
+        "diagram": "case_09_thermal_pollution_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_10_lateral_mixing",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_10_lateral_mixing/README.md",
+        "diagram": "case_10_lateral_mixing_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_11_river_bend",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_11_river_bend/README.md",
+        "diagram": "case_11_river_bend_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_12_estuary",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_12_estuary/README.md",
+        "diagram": "case_12_estuary_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_13_lake_cmfr",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_13_lake_cmfr/README.md",
+        "diagram": "case_13_lake_cmfr_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_14_lake_nutrient",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_14_lake_nutrient/README.md",
+        "diagram": "case_14_lake_nutrient_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_15_stratified_reservoir",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_15_stratified_reservoir/README.md",
+        "diagram": "case_15_stratified_reservoir_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_16_density_current",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_16_density_current/README.md",
+        "diagram": "case_16_density_current_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_17_algae_dynamics",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_17_algae_dynamics/README.md",
+        "diagram": "case_17_algae_dynamics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_18_lake_3d_eutrophication",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_18_lake_3d_eutrophication/README.md",
+        "diagram": "case_18_lake_3d_eutrophication_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_19_groundwater_column",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_19_groundwater_column/README.md",
+        "diagram": "case_19_groundwater_column_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_20_aquifer_2d",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_20_aquifer_2d/README.md",
+        "diagram": "case_20_aquifer_2d_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_21_multilayer_aquifer",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_21_multilayer_aquifer/README.md",
+        "diagram": "case_21_multilayer_aquifer_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_22_pump_and_treat",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_22_pump_and_treat/README.md",
+        "diagram": "case_22_pump_and_treat_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_23_watershed",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_23_watershed/README.md",
+        "diagram": "case_23_watershed_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_24_river_network",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_24_river_network/README.md",
+        "diagram": "case_24_river_network_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_25_water_transfer",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_25_water_transfer/README.md",
+        "diagram": "case_25_water_transfer_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_26_river_ecosystem",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_26_river_ecosystem/README.md",
+        "diagram": "case_26_river_ecosystem_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_27_lake_regime_shift",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_27_lake_regime_shift/README.md",
+        "diagram": "case_27_lake_regime_shift_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_28_wetland",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_28_wetland/README.md",
+        "diagram": "case_28_wetland_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_29_urban_blackwater",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_29_urban_blackwater/README.md",
+        "diagram": "case_29_urban_blackwater_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-environment-simulation",
+        "case_dir": "/workspace/books/water-environment-simulation/code/examples/case_30_watershed_platform",
+        "readme": "/workspace/books/water-environment-simulation/code/examples/case_30_watershed_platform/README.md",
+        "diagram": "case_30_watershed_platform_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case01_water_resources_assessment",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case01_water_resources_assessment/README.md",
+        "diagram": "case01_water_resources_assessment_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case02_water_demand_forecasting",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case02_water_demand_forecasting/README.md",
+        "diagram": "case02_water_demand_forecasting_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case03_carrying_capacity",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case03_carrying_capacity/README.md",
+        "diagram": "case03_carrying_capacity_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case04_multi_objective_allocation",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case04_multi_objective_allocation/README.md",
+        "diagram": "case04_multi_objective_allocation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case05_cascade_reservoir",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case05_cascade_reservoir/README.md",
+        "diagram": "case05_cascade_reservoir_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case06_uncertainty_optimization",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case06_uncertainty_optimization/README.md",
+        "diagram": "case06_uncertainty_optimization_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case07_canal_control",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case07_canal_control/README.md",
+        "diagram": "case07_canal_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case08_network_dispatch",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case08_network_dispatch/README.md",
+        "diagram": "case08_network_dispatch_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case09_realtime_reservoir",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case09_realtime_reservoir/README.md",
+        "diagram": "case09_realtime_reservoir_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case10_deep_learning_forecast",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case10_deep_learning_forecast/README.md",
+        "diagram": "case10_deep_learning_forecast_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case11_anomaly_detection",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case11_anomaly_detection/README.md",
+        "diagram": "case11_anomaly_detection_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case12_rl_scheduling",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case12_rl_scheduling/README.md",
+        "diagram": "case12_rl_scheduling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case13_digital_twin",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case13_digital_twin/README.md",
+        "diagram": "case13_digital_twin_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case14_network_estimation",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case14_network_estimation/README.md",
+        "diagram": "case14_network_estimation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case15_data_assimilation",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case15_data_assimilation/README.md",
+        "diagram": "case15_data_assimilation_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case16_flood_risk",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case16_flood_risk/README.md",
+        "diagram": "case16_flood_risk_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case17_water_security",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case17_water_security/README.md",
+        "diagram": "case17_water_security_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case18_robust_dispatch",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case18_robust_dispatch/README.md",
+        "diagram": "case18_robust_dispatch_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case19_decision_support",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case19_decision_support/README.md",
+        "diagram": "case19_decision_support_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "water-resource-planning-management",
+        "case_dir": "/workspace/books/water-resource-planning-management/code/examples/case20_basin_management",
+        "readme": "/workspace/books/water-resource-planning-management/code/examples/case20_basin_management/README.md",
+        "diagram": "case20_basin_management_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_01_wind_statistics",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_01_wind_statistics/README.md",
+        "diagram": "case_01_wind_statistics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_02_wind_shear",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_02_wind_shear/README.md",
+        "diagram": "case_02_wind_shear_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_03_blade_aerodynamics",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_03_blade_aerodynamics/README.md",
+        "diagram": "case_03_blade_aerodynamics_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_04_rotor_performance",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_04_rotor_performance/README.md",
+        "diagram": "case_04_rotor_performance_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_05_wake_effect",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_05_wake_effect/README.md",
+        "diagram": "case_05_wake_effect_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_06_dfig_modeling",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_06_dfig_modeling/README.md",
+        "diagram": "case_06_dfig_modeling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_07_pmsg_modeling",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_07_pmsg_modeling/README.md",
+        "diagram": "case_07_pmsg_modeling_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_08_grid_connection",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_08_grid_connection/README.md",
+        "diagram": "case_08_grid_connection_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_09_drivetrain",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_09_drivetrain/README.md",
+        "diagram": "case_09_drivetrain_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_10_tower_vibration",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_10_tower_vibration/README.md",
+        "diagram": "case_10_tower_vibration_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_11_tsr_control",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_11_tsr_control/README.md",
+        "diagram": "case_11_tsr_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_12_psf_control",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_12_psf_control/README.md",
+        "diagram": "case_12_psf_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_13_hcs_control",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_13_hcs_control/README.md",
+        "diagram": "case_13_hcs_control_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_14_optimal_torque",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_14_optimal_torque/README.md",
+        "diagram": "case_14_optimal_torque_ai_diagram.png",
+        "readme_updated": true
+      },
+      {
+        "book": "wind-power-system-modeling-control",
+        "case_dir": "/workspace/books/wind-power-system-modeling-control/code/examples/case_15_pitch_control",
+        "readme": "/workspace/books/wind-power-system-modeling-control/code/examples/case_15_pitch_control/README.md",
+        "diagram": "case_15_pitch_control_ai_diagram.png",
+        "readme_updated": true
+      }
+    ],
+    "skipped": [
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_01_single_reach_pid",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_01_single_reach_pid/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_02_multipoint_pid",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_02_multipoint_pid/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_03_feedforward_feedback",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_03_feedforward_feedback/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "canal-pipeline-control",
+        "case_dir": "/workspace/books/canal-pipeline-control/code/examples/case_04_pod_reduction",
+        "readme": "/workspace/books/canal-pipeline-control/code/examples/case_04_pod_reduction/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_01_home_water_tower",
+        "readme": "/workspace/books/water-system-control/code/examples/case_01_home_water_tower/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_02_cooling_tower",
+        "readme": "/workspace/books/water-system-control/code/examples/case_02_cooling_tower/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_03_water_supply_station",
+        "readme": "/workspace/books/water-system-control/code/examples/case_03_water_supply_station/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_04_pid_tuning",
+        "readme": "/workspace/books/water-system-control/code/examples/case_04_pid_tuning/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_05_parameter_identification",
+        "readme": "/workspace/books/water-system-control/code/examples/case_05_parameter_identification/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_06_step_response",
+        "readme": "/workspace/books/water-system-control/code/examples/case_06_step_response/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_07_cascade_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_07_cascade_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_08_feedforward_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_08_feedforward_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_09_system_modeling",
+        "readme": "/workspace/books/water-system-control/code/examples/case_09_system_modeling/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_10_frequency_analysis",
+        "readme": "/workspace/books/water-system-control/code/examples/case_10_frequency_analysis/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_11_state_space",
+        "readme": "/workspace/books/water-system-control/code/examples/case_11_state_space/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_12_observer_lqr",
+        "readme": "/workspace/books/water-system-control/code/examples/case_12_observer_lqr/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_13_adaptive_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_13_adaptive_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_14_model_predictive_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_14_model_predictive_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_15_sliding_mode_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_15_sliding_mode_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_16_fuzzy_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_16_fuzzy_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_17_neural_network_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_17_neural_network_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_18_reinforcement_learning_control",
+        "readme": "/workspace/books/water-system-control/code/examples/case_18_reinforcement_learning_control/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_19_comprehensive_comparison",
+        "readme": "/workspace/books/water-system-control/code/examples/case_19_comprehensive_comparison/README.md",
+        "reason": "已有图片或无法解析README"
+      },
+      {
+        "book": "water-system-control",
+        "case_dir": "/workspace/books/water-system-control/code/examples/case_20_practical_application",
+        "readme": "/workspace/books/water-system-control/code/examples/case_20_practical_application/README.md",
+        "reason": "已有图片或无法解析README"
+      }
+    ],
+    "failed": []
+  }
+}
